@@ -2,7 +2,7 @@ pipeline {
     agent any
 
 	tools {
-		jdk  'java11'
+		jdk  'JDK11'
 	}
 //	environment {
 //		M2_INSTALL = "/usr/bin/mvn"
